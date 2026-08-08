@@ -7,7 +7,7 @@ I'm **[Spyros](https://www.linkedin.com/in/spyros-anthis/)**, a Computer Enginee
 - I like testing myself by turning what I learn into actual projects
 - If an idea sounds interesting enough, there's a pretty good chance I'll try to build it
 - My first public project is **[Quality Comments](https://github.com/SPXROS/quality-comments)**, an open-source Claude Skill focused on helping AI write better code comments
-- I usually learn best by experimenting, building things, breaking them, and figuring out how they work
+- I usually learn best by experimenting, building things, and figuring out how they work
 
 ## Tech Stack
 
